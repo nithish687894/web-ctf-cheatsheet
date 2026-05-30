@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&repeat=true&width=750&height=80&lines=Ultimate+Web+Exploitation+CTF+Notes+%F0%9F%8C%90;Every+Vuln+%7C+Every+Payload+%7C+Every+Trick;By+Nithishkumar+S+%E2%80%94+National+CTF+Finalist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&repeat=true&width=750&height=80&lines=Ultimate+Web+Exploitation+CTF+Notes+%F0%9F%8C%90;Every+Vuln+%7C+Every+Payload+%7C+Every+Trick; alt="Typing SVG" />
 
 ![Web](https://img.shields.io/badge/Web-Exploitation-ff3333?style=for-the-badge&logo=owasp&logoColor=white)
 ![SQLi](https://img.shields.io/badge/SQLi-cc0000?style=for-the-badge&logo=mysql&logoColor=white)
